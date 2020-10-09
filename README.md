@@ -52,8 +52,7 @@ Lastly, we are hoping that you can output which hour was the best and worst in t
 
 ## Submission Instructions
 
-- The `EmptySolution.py` file contains some functions, where the output is well defined. This will be used for our tests, so be sure to output right answers (it is not that hard to compute the result by hand, and compare it to the output of your program) in the right format;
+- The `template.py` file contains some functions, where the output is well defined. This will be used for our tests, so be sure to output right answers (it is not that hard to compute the result by hand, and compare it to the output of your program) in the right format;
 - If you need to create other functions, you're free to do so, just keep in mind that the functions that are already defined need to work;
 - For the sake of testing, do not print any alert messages or anything to stdout;
-- Please write your name at the top and the bottom of your solution;
-- Submit a **single file** containing your solution and use `YOUR_NAME_solution.py` format (e.g. `john_doe_solution.py`).
+- Please write your name at the top and the bottom of your solution.
