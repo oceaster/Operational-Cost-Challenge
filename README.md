@@ -1,7 +1,5 @@
 # Coding Challenge
 
-## [Company Details Removed]
-
 We want to understand the most and least profitable hour of the day for a given restaurant when looking at labour cost. You'll have two csvs, one describing the shifts, and one describing the hourly sales.
 
 ## Labour Data
@@ -10,7 +8,7 @@ A shift will include the pay-rate (per hour), the start and end time, and a text
 
 For example:
 
-```json
+```python3
 {
     'break_notes': '15-18',
     'start_time': '10:00',
@@ -27,7 +25,7 @@ This shows you a set of transactions:
 
 For example
 
-```json
+```python3
 [
       {
           'time' : '10:31,
